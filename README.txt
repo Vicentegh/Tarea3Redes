@@ -1,0 +1,1 @@
+El latex en la pregunta sobre distancia vector, agregue una imagen que muestra la tabla, de todas formas se puede comprobar la tabla corriendo el programa que esta basado en bellman ford
